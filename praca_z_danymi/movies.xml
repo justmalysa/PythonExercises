@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<movies>
+	<movie>
+		<title>Hobbit</title>
+		<year>2009</year>
+    <rating>6</rating>
+    <watched>1</watched>
+	</movie>
+	<movie>
+		<title>Avengers</title>
+		<year>2015</year>
+    <rating>8</rating>
+    <watched>0</watched>
+	</movie>
+</movies>
